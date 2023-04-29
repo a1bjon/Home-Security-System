@@ -1,4 +1,4 @@
-import alertUtilities.EmailHandler
+import alertUtilities.EmailHandler;
 import accountUtilities.accountManager;
 import intruderUtilities.Intruder;
 import intruderUtilities.intruderManager;
