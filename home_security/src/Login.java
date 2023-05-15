@@ -185,7 +185,6 @@ public class Login extends JFrame{
         String emailAddress = emailField.getText();
         String password = String.valueOf(passwordField.getPassword());
 
-
         boolean accountCheck = am.login(emailAddress, password);
 
         if(accountCheck){
