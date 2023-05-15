@@ -18,7 +18,6 @@ public class accountManager implements DataHandler{
     public ArrayList<User> accounts;
     public static String loggedInUser;
 
-
     // enables readable JSON format
     Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
