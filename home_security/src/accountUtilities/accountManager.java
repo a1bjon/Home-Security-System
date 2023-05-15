@@ -115,7 +115,6 @@ public class accountManager implements DataHandler{
                 break;
             }
         }
-
         return accountCheck;
     }
 }
