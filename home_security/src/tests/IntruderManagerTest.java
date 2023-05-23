@@ -1,5 +1,5 @@
 package tests;
-import org.junit. Test;
+import org.junit.Test;
 import intruderUtilities.*;
 import static org.junit.Assert.*;
 
